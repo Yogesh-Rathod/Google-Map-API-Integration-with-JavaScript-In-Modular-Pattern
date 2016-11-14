@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.container { padding: 50px 0; }
+
+.container a {
+  transition: 0.35s;
+}
